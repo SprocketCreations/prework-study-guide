@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-View the site [here](url). It contains notes about the prework, divided into boxes. You can open the console with F12 to view the Javascript stuff in action.
+View the site [here](https://sprocketcreations.github.io/prework-study-guide/). It contains notes about the prework, divided into boxes. You can open the console with F12 to view the Javascript stuff in action.
 
 ## Credits
 
@@ -18,4 +18,4 @@ N/A
 
 ## License
 
-Check [License](LICENSE) in the repo.
+Check the [license](LICENSE) in the repo.
