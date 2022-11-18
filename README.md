@@ -18,4 +18,4 @@ N/A
 
 ## License
 
-Check [License](License) in the repo.
+Check [License](LICENSE) in the repo.
